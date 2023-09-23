@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://i.imgur.com/ScovY9l.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IDRviDS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -41,7 +41,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   *We will take a look at the all tickets that was created and kind of sort through them as an agent*
   
 <p>
-<img src="https://i.imgur.com/uh23dHE.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/magBtTv.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -54,7 +54,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://i.imgur.com/eCRLaKM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ADlKuRV.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -65,12 +65,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/ELM0NOl.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MdNy0vS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
  <p>
-<img src="https://i.imgur.com/0wJgoKa.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JkRyRpf.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
